@@ -1,5 +1,5 @@
 # Digital Clock Displaying Current UTC time.
-# J. Dickey
+# 
 from tkinter import *
 import time
 from datetime import datetime, date, time
